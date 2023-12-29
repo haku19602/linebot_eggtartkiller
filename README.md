@@ -1,11 +1,8 @@
-# Eggtart Killer
-### 肯德基蛋塔優惠卷查詢
+# Eggtart Killer ### 肯德基蛋塔優惠卷查詢
 
-## 機器⼈的好友 ID：
-@286drnml
+## 機器⼈的好友 ID：@286drnml
 
-## 公開資料來源：
-[KFC優惠選](https://kfc.izo.tw/#google_vignette)
+## 公開資料來源：[KFC優惠選](https://kfc.izo.tw/#google_vignette)
 
 ## 使用說明
 ![IMG_4757](https://github.com/haku19602/linebot_eggtartkiller/assets/145089039/2f88a02f-56b8-47db-afc8-17188c5f4b19)
